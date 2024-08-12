@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# This script checks available resources (CPU, Memory, and Disk space) to ensure it does not exceed assigned thresholds
+# If a threshold is exceeded, a message will appear that indicates which resource
 # Define threshold values
 CPU_THRESHOLD=60   # 60% CPU usage
 MEMORY_THRESHOLD=70  # 70% Memory usage
