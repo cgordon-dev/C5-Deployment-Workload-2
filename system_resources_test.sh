@@ -3,7 +3,7 @@
 # If a threshold is exceeded, a message will appear that indicates which resource
 # Define threshold values
 CPU_THRESHOLD=60
-MEMORY_THRESHOLD=70
+MEMORY_THRESHOLD=90
 DISK_THRESHOLD=70
 
 echo "Checking system resource usage..."
